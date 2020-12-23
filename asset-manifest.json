@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chat-app-alacuarta/static/css/main.81d0fe8e.chunk.css",
-    "main.js": "/chat-app-alacuarta/static/js/main.ab7bde87.chunk.js",
-    "main.js.map": "/chat-app-alacuarta/static/js/main.ab7bde87.chunk.js.map",
+    "main.js": "/chat-app-alacuarta/static/js/main.e8e2e7af.chunk.js",
+    "main.js.map": "/chat-app-alacuarta/static/js/main.e8e2e7af.chunk.js.map",
     "runtime-main.js": "/chat-app-alacuarta/static/js/runtime-main.c100c302.js",
     "runtime-main.js.map": "/chat-app-alacuarta/static/js/runtime-main.c100c302.js.map",
     "static/css/2.06bdc371.chunk.css": "/chat-app-alacuarta/static/css/2.06bdc371.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.06bdc371.chunk.css",
     "static/js/2.0e5d8c49.chunk.js",
     "static/css/main.81d0fe8e.chunk.css",
-    "static/js/main.ab7bde87.chunk.js"
+    "static/js/main.e8e2e7af.chunk.js"
   ]
 }
