@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/chat-app-alacuarta/static/css/main.81d0fe8e.chunk.css",
+    "main.js": "/chat-app-alacuarta/static/js/main.ab7bde87.chunk.js",
+    "main.js.map": "/chat-app-alacuarta/static/js/main.ab7bde87.chunk.js.map",
+    "runtime-main.js": "/chat-app-alacuarta/static/js/runtime-main.c100c302.js",
+    "runtime-main.js.map": "/chat-app-alacuarta/static/js/runtime-main.c100c302.js.map",
+    "static/css/2.06bdc371.chunk.css": "/chat-app-alacuarta/static/css/2.06bdc371.chunk.css",
+    "static/js/2.0e5d8c49.chunk.js": "/chat-app-alacuarta/static/js/2.0e5d8c49.chunk.js",
+    "static/js/2.0e5d8c49.chunk.js.map": "/chat-app-alacuarta/static/js/2.0e5d8c49.chunk.js.map",
+    "index.html": "/chat-app-alacuarta/index.html",
+    "static/css/2.06bdc371.chunk.css.map": "/chat-app-alacuarta/static/css/2.06bdc371.chunk.css.map",
+    "static/css/main.81d0fe8e.chunk.css.map": "/chat-app-alacuarta/static/css/main.81d0fe8e.chunk.css.map",
+    "static/js/2.0e5d8c49.chunk.js.LICENSE.txt": "/chat-app-alacuarta/static/js/2.0e5d8c49.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/chat-app-alacuarta/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c100c302.js",
+    "static/css/2.06bdc371.chunk.css",
+    "static/js/2.0e5d8c49.chunk.js",
+    "static/css/main.81d0fe8e.chunk.css",
+    "static/js/main.ab7bde87.chunk.js"
+  ]
+}
